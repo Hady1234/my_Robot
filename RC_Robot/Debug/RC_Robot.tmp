@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega8A"</DEVICE>
+ <WORKING_DIR>C:\Users\HADY\Desktop\micro project\RC_Robot\RC_Robot\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>../Mcal/Includes</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\HADY\Desktop\micro project\RC_Robot\RC_Robot\RC_Robot.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m8Adef.inc</FILE>
+  <FILE>../Mcal/Includes\UART.INC</FILE>
+  <FILE>../Mcal/Includes\EXTRNAL_INT.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\HADY\Desktop\micro project\RC_Robot\RC_Robot\Debug/RC_Robot.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>RC_Robot.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>RC_Robot.map</FILE>
+  <FILE>RC_Robot.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <UART_START><FILE>../Mcal/Includes\UART.INC</FILE><LINE>7</LINE></UART_START>
+  <UART_SEND><FILE>../Mcal/Includes\UART.INC</FILE><LINE>23</LINE></UART_SEND>
+  <UART_REC><FILE>../Mcal/Includes\UART.INC</FILE><LINE>29</LINE></UART_REC>
+  <INT0_EN><FILE>../Mcal/Includes\EXTRNAL_INT.INC</FILE><LINE>4</LINE></INT0_EN>
+  <INT0_HANDL><FILE>../Mcal/Includes\EXTRNAL_INT.INC</FILE><LINE>24</LINE></INT0_HANDL>
+  <MAIN><FILE>C:\Users\HADY\Desktop\micro project\RC_Robot\RC_Robot\RC_Robot.asm</FILE><LINE>16</LINE></MAIN>
+  <VOID_SET><FILE>C:\Users\HADY\Desktop\micro project\RC_Robot\RC_Robot\RC_Robot.asm</FILE><LINE>28</LINE></VOID_SET>
+  <VOID_LOAP><FILE>C:\Users\HADY\Desktop\micro project\RC_Robot\RC_Robot\RC_Robot.asm</FILE><LINE>38</LINE></VOID_LOAP>
+ </LABELS>
+</ASSEMBLER_INFO>
